@@ -1,0 +1,15 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    text-align: center;
+    background-color: darkgray;
+}
+#main{
+    margin: 0px auto;
+    width: 800px;
+}
+p{
+    font-size: 20px;
+    
+}
